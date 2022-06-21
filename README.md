@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm Rajat, and it's my pleasure to introduce myself. I did my schooling at Rarahill Memorial School and am now pursuing my Bsc.CSIT from AIC.👋
 
 <!--
 **raazat4/raazat4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
