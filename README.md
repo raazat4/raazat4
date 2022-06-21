@@ -1,7 +1,7 @@
-[![MasterHead](https://imgs.search.brave.com/REi2L9a-oz0KpA1-VyiFGLPqANqtOI26WrrVfceYvkA/rs:fit:853:480:1/g:ce/aHR0cHM6Ly9hay5w/aWNkbi5uZXQvc2h1/dHRlcnN0b2NrL3Zp/ZGVvcy8xMDQyNjU0/MjQwL3RodW1iLzEu/anBn)]
+<img align="center" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47jcb64jutyc89cp7j2kcmlfvo0abvypyf7vdqt9tb&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Rajat Maharjan</h1>
 <h3 align="center">A passionate web developer from Nepal</h3><br>
-<img align="center" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47jcb64jutyc89cp7j2kcmlfvo0abvypyf7vdqt9tb&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raazat4" alt="raazat4" /></a> </p>
 
