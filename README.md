@@ -1,4 +1,4 @@
-<img align="right" alt="coding" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47jcb64jutyc89cp7j2kcmlfvo0abvypyf7vdqt9tb&rid=giphy.gif&ct=g">
+
 <h1 align="center">Hi 👋, I'm Rajat Maharjan</h1>
 <h3 align="center">A passionate web developer from Nepal</h3><br>
 
