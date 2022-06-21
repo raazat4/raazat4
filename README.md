@@ -1,7 +1,7 @@
 [![MasterHead](https://imgs.search.brave.com/REi2L9a-oz0KpA1-VyiFGLPqANqtOI26WrrVfceYvkA/rs:fit:853:480:1/g:ce/aHR0cHM6Ly9hay5w/aWNkbi5uZXQvc2h1/dHRlcnN0b2NrL3Zp/ZGVvcy8xMDQyNjU0/MjQwL3RodW1iLzEu/anBn)]
 <h1 align="center">Hi 👋, I'm Rajat Maharjan</h1>
 <h3 align="center">A passionate web developer from Nepal</h3><br>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47jcb64jutyc89cp7j2kcmlfvo0abvypyf7vdqt9tb&rid=giphy.gif&ct=g">
+<img alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47jcb64jutyc89cp7j2kcmlfvo0abvypyf7vdqt9tb&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raazat4&label=Profile%20views&color=0e75b6&style=flat" alt="raazat4" /> </p>
 
